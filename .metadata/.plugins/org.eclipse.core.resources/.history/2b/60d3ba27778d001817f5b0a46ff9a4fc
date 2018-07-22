@@ -1,0 +1,5 @@
+package com.rayan.department.Entity;
+
+public class DepartMent {
+
+}

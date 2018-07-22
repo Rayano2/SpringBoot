@@ -1,0 +1,5 @@
+package com.rayan.department.repo;
+
+public class DepartmentRepo extends CrudRepository {
+
+}
